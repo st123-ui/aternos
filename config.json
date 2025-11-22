@@ -1,9 +1,9 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "Please enter your server URL",https://add.aternos.org/Mythos
+		"port": "Please enter your server port",34850
 		"username": "Please enter the bot's username you want"
-	},
+	},Mythos.aternos.me
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
